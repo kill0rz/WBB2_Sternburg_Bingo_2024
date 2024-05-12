@@ -1,0 +1,3 @@
++ Enddatum einfügen
+	+ Danach ist kein editieren mehr möglich
+	+ das aber optional machen, falls jemand dann noch weiter spielen will
